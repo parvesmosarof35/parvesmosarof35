@@ -1,5 +1,5 @@
 # Hi 👋, I'm Parves Mosarof 
-## Professional Full Stack Developer | MERN Stack Specialist | Software Engineer 🇧🇩
+## Professional Full Stack Developer | MERN Stack Specialist 🇧🇩
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=parvesmosarof35&label=Profile%20views&color=0e75b6&style=flat-square" alt="Parves Mosarof GitHub Views" />
@@ -20,7 +20,7 @@ I am a **Full Stack Developer** based in **Bangladesh**, specializing in buildin
 
 ### 🛠 Languages & Tools
 
-#### **Frontend Engineering**
+#### **Frontend **
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,sass" alt="Frontend Skills" />
