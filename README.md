@@ -43,7 +43,7 @@ I am a **Full Stack Developer** based in **Bangladesh**, specializing in buildin
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=parvesmosarof35&theme=tokyonight" alt="GitHub Coding Streak" />
+  <img src="https://streak-stats.demolab.com?user=parvesmosarof35&theme=tokyonight&cache=false" alt="GitHub Coding Streak" />
 </p>
 
 <p align="center">
@@ -64,6 +64,3 @@ I am a **Full Stack Developer** based in **Bangladesh**, specializing in buildin
   <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
 </a>
 </p>
-
----
-<p align="center">Built with ❤️ by Parves Mosarof</p>
