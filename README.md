@@ -43,7 +43,7 @@ I am a **Full Stack Developer** based in **Bangladesh**, specializing in buildin
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=parvesmosarof35&theme=tokyonight&cache=false" alt="GitHub Coding Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=parvesmosarof35&theme=tokyonight" alt="GitHub Coding Streak" />
 </p>
 
 <p align="center">
