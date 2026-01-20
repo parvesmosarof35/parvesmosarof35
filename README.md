@@ -1,5 +1,5 @@
 # Hi 👋, I'm Parves Mosarof 
-## Professional Full Stack Developer | MERN Stack Specialist 🇧🇩
+## Full Stack Developer | MERN Stack Developer | NEXT JS developer 🇧🇩
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=parvesmosarof35&label=Profile%20views&color=0e75b6&style=flat-square" alt="Parves Mosarof GitHub Views" />
@@ -9,7 +9,7 @@
 ---
 
 ### 🚀 About Me
-I am a **Full Stack Developer** based in **Bangladesh**, specializing in building high-performance web applications using the **MERN Stack (MongoDB, Express.js, React, Node.js)**. With deep expertise in **Next.js 15/16** and **TypeScript**, I focus on writing clean, scalable, and SEO-friendly code.
+I am a **Full Stack Developer** based in **Bangladesh**, specializing in building high-performance web applications using the **MERN Stack (MongoDB, Express.js, React, Node.js)**. With deep expertise in **Next.js 15/16**, **TypeScript**, **Mongoose**, I focus on writing clean, scalable, and SEO-friendly code.
 
 - 🔭 **Currently Building:** [Detroit Fit 313](https://github.com/parvesmosarof35) & Advanced E-commerce Solutions.
 - 🌱 **Learning:** Mastering **Go (Golang)** and High-Performance Backend Architectures.
