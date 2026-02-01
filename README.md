@@ -11,10 +11,6 @@
 ### 🚀 About Me
 I am a **Full Stack Developer** based in **Bangladesh**, specializing in building high-performance web applications using the **MERN Stack (MongoDB, Express.js, React, Node.js)**. With deep expertise in **Next.js 15/16**, **TypeScript**, **Mongoose**, I focus on writing clean, scalable, and SEO-friendly code.
 
-- 🔭 **Currently Building:** [Detroit Fit 313](https://github.com/parvesmosarof35) & Advanced E-commerce Solutions.
-- 🌱 **Learning:** Mastering **Go (Golang)** and High-Performance Backend Architectures.
-- ⚡ **Technical Skills:** Specialized in Server-Side Rendering (SSR), Progressive Web Apps (PWA), and Cloud Deployment (AWS/Docker).
-- 📫 **Collaboration:** I'm open to interesting projects or full-time remote opportunities.
 
 ---
 
